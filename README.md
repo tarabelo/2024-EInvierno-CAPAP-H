@@ -9,13 +9,12 @@ Programa (tentativo):
 
 <a href="https://colab.research.google.com/drive/1k_corsAM5QRNe3xLpHRoH5rd9XW3pNMC"> Bits y Cúbits</a>
 
-**Sesión 1**:
-Introducción a la computación cuántica
-- Historia de la computación cuántica
-- Sistemas cuánticos actuales: Introducción a Qiskit
+<a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia_y_estado_actual_de_la_computaci%C3%B3n_cu%C3%A1ntica.ipynb" target="_blank">Historia y estado actual de la computación cuántica</a>
+- <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia_y_estado_actual_de_la_computaci%C3%B3n_cu%C3%A1ntica.ipynb#scrollTo=Ojo6AHpeoenz" target="_blank">Historia de la computación cuántica</a>
+- <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia_y_estado_actual_de_la_computaci%C3%B3n_cu%C3%A1ntica.ipynb#scrollTo=2c299629" target="_blank">Sistemas cuánticos actuales</a>
+- <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia_y_estado_actual_de_la_computaci%C3%B3n_cu%C3%A1ntica.ipynb#scrollTo=108aab0e" target="_blank">Introducción a Qiskit</a>
 
-**Sesión 2**:
-Bits cuánticos o cúbits
+Bits y cúbits
 - Bits clásicos y bits cuánticos: esfera de Bloch
 - Múltiples cúbits y estados entrelazados
 - Restricciones
