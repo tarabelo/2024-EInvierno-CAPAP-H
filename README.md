@@ -1,4 +1,5 @@
-<center><img src="https://drive.google.com/uc?export=view&id=11If7elr4GkBIkElj6xXStHjXZWsFcBXF" alt="Sistema de IBM" width="300"  /></center>
+
+![Alt text](/images/qcomp.png?raw=true "Sistema de IBM")
 
 # Introducción a la computación cuántica
 
