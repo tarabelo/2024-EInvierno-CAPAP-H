@@ -7,6 +7,8 @@ Tomás Fernández Pena, Univ. de Santiago de Compostela (tf.pena@usc.es)
 
 Programa (tentativo):
 
+<a href="https://colab.research.google.com/drive/1k_corsAM5QRNe3xLpHRoH5rd9XW3pNMC"> Bits y Cúbits</a>
+
 **Sesión 1**:
 Introducción a la computación cuántica
 - Historia de la computación cuántica
