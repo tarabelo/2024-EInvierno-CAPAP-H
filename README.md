@@ -1,8 +1,6 @@
 <center><img src="/images/qcomp.png?raw=true" alt="Sistema de IBM" width="300"  /></center>
 
 
-![Alt text](/images/qcomp.png?raw=true "Sistema de IBM")
-
 # Introducción a la computación cuántica
 
 Tomás Fernández Pena, Univ. de Santiago de Compostela (tf.pena@usc.es)
