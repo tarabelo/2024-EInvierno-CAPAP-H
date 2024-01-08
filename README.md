@@ -1,3 +1,5 @@
+<center><img src="/images/qcomp.png?raw=true" alt="Sistema de IBM" width="300"  /></center>
+
 
 ![Alt text](/images/qcomp.png?raw=true "Sistema de IBM")
 
