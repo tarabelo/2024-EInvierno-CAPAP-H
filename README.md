@@ -7,8 +7,6 @@ Tomás Fernández Pena, Univ. de Santiago de Compostela (tf.pena@usc.es)
 
 Programa (tentativo):
 
-<a href="https://colab.research.google.com/drive/1k_corsAM5QRNe3xLpHRoH5rd9XW3pNMC"> Bits y Cúbits</a>
-
 <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia_y_estado_actual_de_la_computaci%C3%B3n_cu%C3%A1ntica.ipynb" target="_blank">Historia y estado actual de la computación cuántica</a>
 - <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia_y_estado_actual_de_la_computaci%C3%B3n_cu%C3%A1ntica.ipynb#scrollTo=Ojo6AHpeoenz" target="_blank">Historia de la computación cuántica</a>
 - <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia_y_estado_actual_de_la_computaci%C3%B3n_cu%C3%A1ntica.ipynb#scrollTo=2c299629" target="_blank">Sistemas cuánticos actuales</a>
