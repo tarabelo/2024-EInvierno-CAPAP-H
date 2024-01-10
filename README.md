@@ -12,7 +12,7 @@ Programa (tentativo):
 - <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#scrollTo=2c299629" target="_blank">Sistemas cuánticos actuales</a>
 - <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#scrollTo=108aab0e" target="_blank">Introducción a Qiskit</a>
 
-<a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits_y_C%C3%BAbits.ipynb" target="_blank">Bits y cúbits</a>
+[Bits y cúbits](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb)
 - Bits clásicos y bits cuánticos: esfera de Bloch
 - Múltiples cúbits y estados entrelazados
 - Restricciones
