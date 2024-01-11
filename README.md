@@ -25,7 +25,7 @@ Puertas cuánticas
 - Puertas controladas
 - Puertas para múltiples cúbits
 
-Algoritmos cuánticos "clásicos" (I)
+Algoritmos cuánticos "clásicos"
 - Paralelismo cuántico
 - Algoritmo de Deutsch y Deutsch-Jozsa
 - Algoritmo de Bernstein-Vazirani
