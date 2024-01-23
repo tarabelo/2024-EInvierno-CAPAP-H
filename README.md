@@ -12,19 +12,17 @@ Programa (tentativo):
 - <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#scrollTo=2c299629" target="_blank">Sistemas cuánticos actuales</a>
 - <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#scrollTo=108aab0e" target="_blank">Introducción a Qiskit</a>
 
-https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb
-
 [Bits y cúbits](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb)
 - [Bits clásicos como vectores](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#bits)
 - [Bits cuánticos o cúbits](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#cubits)
 - [Medida del estado](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#medida)
 - [Aspectos adicionales](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#otros)
 
-Puertas cuánticas
-- Puertas clásicas vs cuánticas
-- Puertas de 1 cúbit
-- Puertas controladas
-- Puertas para múltiples cúbits
+[Puertas cuánticas](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Puertas%20cu%C3%A1nticas.ipynb)
+- [Puertas clásicas vs cuánticas](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Puertas%20cu%C3%A1nticas.ipynb#clasicascuanticas)
+- [Puertas cuánticas de 1 cúbit](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Puertas%20cu%C3%A1nticas.ipynb#1cubit)
+- [Puertas controladas: CNOT](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Puertas%20cu%C3%A1nticas.ipynb#cnot)
+- [Otras puertas](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Puertas%20cu%C3%A1nticas.ipynb#otras)
 
 Algoritmos cuánticos "clásicos"
 - Paralelismo cuántico
