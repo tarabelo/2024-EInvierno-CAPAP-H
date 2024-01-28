@@ -24,14 +24,13 @@ Programa (tentativo):
 - [Puertas controladas: CNOT](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Puertas%20cu%C3%A1nticas.ipynb#cnot)
 - [Otras puertas](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Puertas%20cu%C3%A1nticas.ipynb#otras)
 
-Algoritmos cuánticos "clásicos"
-- Paralelismo cuántico
-- Algoritmo de Deutsch y Deutsch-Jozsa
-- Algoritmo de Bernstein-Vazirani
-- Algoritmo de búsqueda de Grover: amplificación de amplitud
-- Transformada de Fourier cuántica (QFT)
-- Quantum phase estimation (QPE)
-- Algoritmo de factorización Shor
+[Algoritmos cuánticos clásicos](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb)
+- [Paralelismo cuántico](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#scrollTo=parental-continent)
+- [Algoritmo "simples": Deutsch, Deutsch-Jozsa, Bernstein-Vazirani, Simon](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#simples)
+- [Algoritmo de búsqueda de Grover: amplificación de amplitud](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#grover)
+- [Transformada de Fourier cuántica (QFT)](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#qft)
+- [Quantum phase estimation (QPE)](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#qpe)
+- [Algoritmo de factorización Shor](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#shor)
 
   
 #### Bibliografía genérica
