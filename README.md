@@ -35,7 +35,7 @@ Programa (tentativo):
   
 #### Bibliografía genérica
 
-- Varios autores, _Learn Quantum Computation using Qiskit_, https://qiskit.org/textbook/
+- Varios autores, _Qiskit Textbook_, https://github.com/Qiskit/textbook/tree/main https://learning.quantum.ibm.com/
 - Michael A. Nielsen & Isaac L. Chuang, _Quantum Computation and Quantum Information_, Cambridge Univ. Press, 2010.
 - Noson S. Yanofsky & Mirco A. Mannucci, _Quantum Computer for Computer Scientist_, Cambridge Univ. Press, 6ª ed, 2020.
 - Elías F. Combarro & Samuel González-Castillo, _A Practical Guide to Quantum Machine Learning and Quantum Optimization_, Packt Publishing, 2023.
