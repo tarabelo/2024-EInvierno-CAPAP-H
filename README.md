@@ -25,7 +25,7 @@ Programa (tentativo):
 - [Otras puertas](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Puertas%20cu%C3%A1nticas.ipynb#otras)
 
 [Algoritmos cuánticos clásicos](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb)
-- [Paralelismo cuántico](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#scrollTo=parental-continent)
+- [Paralelismo cuántico](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#paralelismo)
 - [Algoritmo "simples": Deutsch, Deutsch-Jozsa, Bernstein-Vazirani, Simon](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#simples)
 - [Algoritmo de búsqueda de Grover: amplificación de amplitud](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#grover)
 - [Transformada de Fourier cuántica (QFT)](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#qft)
