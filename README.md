@@ -14,11 +14,11 @@ Programa (tentativo):
   - <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#scrollTo=2c299629" target="_blank">Sistemas cuánticos actuales</a>
   - <a href="https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Historia%20y%20estado%20actual%20de%20la%20computaci%C3%B3n%20cu%C3%A1ntica.ipynb#scrollTo=108aab0e" target="_blank">Introducción a Qiskit</a>
 
-[Bits y cúbits](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb)
-- [Bits clásicos como vectores](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#bits)
-- [Bits cuánticos o cúbits](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#cubits)
-- [Medida del estado](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#medida)
-- [Aspectos adicionales](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#otros)
+- [Bits y cúbits](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb)
+  - [Bits clásicos como vectores](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#bits)
+  - [Bits cuánticos o cúbits](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#cubits)
+  - [Medida del estado](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#medida)
+  - [Aspectos adicionales](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Bits%20y%20C%C3%BAbits.ipynb#otros)
 
 **Jueves 1 15:40-17:30**
 
@@ -30,13 +30,13 @@ Programa (tentativo):
 
 **Jueves 1 18:00-20:00**
 
-[Algoritmos cuánticos clásicos](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb)
-- [Paralelismo cuántico](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#paralelismo)
-- [Algoritmo "simples": Deutsch, Deutsch-Jozsa, Bernstein-Vazirani, Simon](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#simples)
-- [Algoritmo de búsqueda de Grover: amplificación de amplitud](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#grover)
-- [Transformada de Fourier cuántica (QFT)](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#qft)
-- [Quantum phase estimation (QPE)](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#qpe)
-- [Algoritmo de factorización Shor](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#shor)
+- [Algoritmos cuánticos clásicos](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb)
+  - [Paralelismo cuántico](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#paralelismo)
+  - [Algoritmo "simples": Deutsch, Deutsch-Jozsa, Bernstein-Vazirani, Simon](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#simples)
+  - [Algoritmo de búsqueda de Grover: amplificación de amplitud](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#grover)
+  - [Transformada de Fourier cuántica (QFT)](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#qft)
+  - [Quantum phase estimation (QPE)](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#qpe)
+  - [Algoritmo de factorización Shor](https://colab.research.google.com/github/tarabelo/2024-EInvierno-CAPAP-H/blob/main/Algoritmos%20cu%C3%A1nticos%20cl%C3%A1sicos.ipynb#shor)
 
   
 #### Bibliografía genérica
